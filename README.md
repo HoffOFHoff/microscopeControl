@@ -1,10 +1,10 @@
 # microscopeControl
 
 # Duty
-liaison(talk to other group and uptake): Daniel Yan
-scribe(write report for meeting): Ziying(Hoff) Xu
-info curator(check literature before): Guanyun(Jim) Liu
-shopper(compare price and platform and function): Yang Meng
+liaison(talk to other group and uptake): Daniel Yan. 
+scribe(write report for meeting): Ziying(Hoff) Xu. 
+info curator(check literature before): Guanyun(Jim) Liu. 
+shopper(compare price and platform and function): Yang Meng. 
 
 ## To-Do task :
 motor: Guanyun(Jim) Liu,Yang Meng
